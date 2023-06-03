@@ -1,6 +1,6 @@
 import { DynamicModule, Global, Module, Provider } from "@nestjs/common";
 import { NebulaGeneratorFunction, NebulaMultiClientOptions } from "@aljeerz/nebula-node";
-import { NebulaNestService } from "./nebula-nest.service";
+import { NebulaNestService } from "./nebula-nest-service";
 
 @Global()
 @Module({})

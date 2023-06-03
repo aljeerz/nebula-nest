@@ -1,7 +1,7 @@
 [![CI](https://github.com/aljeerz/nebula-nest/actions/workflows/main.yml/badge.svg)](https://github.com/aljeerz/nebula-nest/actions/workflows/main.yml) [![Publish](https://github.com/aljeerz/nebula-nest/actions/workflows/publish.yml/badge.svg)](https://github.com/aljeerz/nebula-nest/actions/workflows/publish.yml)
 # `@aljeerz/nebula-nest`
 
-This Repository Provides A NestJS Module for [nebula-node](https://github.com/aljeerz/nebula-node) a utility wrapper for [nebula-node](https://github.com/nebula-contrib/nebula-node).
+This Repository Provides A NestJS Module for [Nebula Graph NodeJS Utility Wrapper](https://github.com/aljeerz/nebula-node) for [NodeJS Nebula Graph Client](https://github.com/nebula-contrib/nebula-node).
 
 Check both repositories for in depth details on the underlaying code.
 

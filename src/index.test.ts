@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest";
 
-describe("NebulaGraph Transforms Helper", () => {
-  it("Base Test", () => {
+describe("Nest Dummy Test", () => {
+  it("Dummy Test", () => {
     expect(1).toBe(1)
   });
 });
