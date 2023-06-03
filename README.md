@@ -54,7 +54,7 @@ export class AppService {
     // @aljeerz/nebula-node for more details about generators and funcitonality
     const query = `YIELD "$unsafeString" as safeString, aljeerz::id() as generatedId`;
     const params = {
-      unsafeString: `" AND 1=1 xD'`,
+      unsafeString: `" unsecure'"'`,
     };
     const res = await this.nebula.execute(query, params);
 
