@@ -1,6 +1,6 @@
 {
   "name": "@aljeerz/nebula-nest",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "NestJS Module for Nebula Graph NodeJS Utility Wrapper",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
